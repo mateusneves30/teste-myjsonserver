@@ -1,74 +1,74 @@
 {
-  "alunos": [
-    {
-      "id": 1,
-      "nome": "João Silva",
-      "idade": 16,
-      "nota": [7.5, 8.0, 9.2],
-      "frequencia": [1, 1, 1, 1, 0, 1, 1, 1, 0, 1]
-    },
-    {
-      "id": 2,
-      "nome": "Maria Oliveira",
-      "idade": 15,
-      "nota": [9.0, 8.5, 9.8],
-      "frequencia": [1, 0, 1, 1, 1, 1, 1, 0, 1, 1]
-    },
-    {
-      "id": 3,
-      "nome": "Carlos Souza",
-      "idade": 17,
-      "nota": [6.0, 5.5, 7.2],
-      "frequencia": [1, 1, 0, 1, 1, 1, 0, 1, 0, 1]
-    },
-    {
-      "id": 4,
-      "nome": "Ana Costa",
-      "idade": 16,
-      "nota": [8.2, 7.8, 8.5],
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
-    },
-    {
-      "id": 5,
-      "nome": "Lucas Pereira",
-      "idade": 17,
-      "nota": [7.0, 6.5, 8.0],
-      "frequencia": [0, 1, 1, 1, 1, 1, 1, 1, 0, 1]
-    },
-    {
-      "id": 6,
-      "nome": "Juliana Santos",
-      "idade": 16,
-      "nota": [9.5, 9.0, 8.8],
-      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
-    },
-    {
-      "id": 7,
-      "nome": "Pedro Almeida",
-      "idade": 15,
-      "nota": [6.8, 7.0, 6.5],
-      "frequencia": [1, 0, 1, 1, 0, 1, 0, 1, 1, 1]
-    },
-    {
-      "id": 8,
-      "nome": "Fernanda Lima",
-      "idade": 17,
-      "nota": [8.5, 8.7, 9.1],
-      "frequencia": [1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
-    },
-    {
-      "id": 9,
-      "nome": "Gustavo Rocha",
-      "idade": 16,
-      "nota": [5.0, 6.2, 5.8],
-      "frequencia": [1, 0, 1, 0, 1, 1, 0, 1, 1, 1]
-    },
-    {
-      "id": 10,
-      "nome": "Patrícia Gomes",
-      "idade": 15,
-      "nota": [7.9, 8.1, 7.5],
-      "frequencia": [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
-    }
-  ]
+  "alunos": [
+    {
+      "id": 1,
+      "nome": "João Silva",
+      "idade": 16,
+      "nota": [7.5, 8.0, 9.2],
+      "frequencia": [1, 1, 1, 1, 0, 1, 1, 1, 0, 1]
+    },
+    {
+      "id": 2,
+      "nome": "Maria Oliveira",
+      "idade": 15,
+      "nota": [9.0, 8.5, 9.8],
+      "frequencia": [1, 0, 1, 1, 1, 1, 1, 0, 1, 1]
+    },
+    {
+      "id": 3,
+      "nome": "Carlos Souza",
+      "idade": 17,
+      "nota": [6.0, 5.5, 7.2],
+      "frequencia": [1, 1, 0, 1, 1, 1, 0, 1, 0, 1]
+    },
+    {
+      "id": 4,
+      "nome": "Ana Costa",
+      "idade": 16,
+      "nota": [8.2, 7.8, 8.5],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 0, 1, 1]
+    },
+    {
+      "id": 5,
+      "nome": "Lucas Pereira",
+      "idade": 17,
+      "nota": [7.0, 6.5, 8.0],
+      "frequencia": [0, 1, 1, 1, 1, 1, 1, 1, 0, 1]
+    },
+    {
+      "id": 6,
+      "nome": "Juliana Santos",
+      "idade": 16,
+      "nota": [9.5, 9.0, 8.8],
+      "frequencia": [1, 1, 1, 1, 1, 1, 1, 1, 1, 1]
+    },
+    {
+      "id": 7,
+      "nome": "Pedro Almeida",
+      "idade": 15,
+      "nota": [6.8, 7.0, 6.5],
+      "frequencia": [1, 0, 1, 1, 0, 1, 0, 1, 1, 1]
+    },
+    {
+      "id": 8,
+      "nome": "Fernanda Lima",
+      "idade": 17,
+      "nota": [8.5, 8.7, 9.1],
+      "frequencia": [1, 1, 1, 0, 1, 1, 1, 0, 1, 1]
+    },
+    {
+      "id": 9,
+      "nome": "Gustavo Rocha",
+      "idade": 16,
+      "nota": [5.0, 6.2, 5.8],
+      "frequencia": [1, 0, 1, 0, 1, 1, 0, 1, 1, 1]
+    },
+    {
+      "id": 10,
+      "nome": "Patrícia Gomes",
+      "idade": 15,
+      "nota": [7.9, 8.1, 7.5],
+      "frequencia": [1, 1, 1, 1, 1, 0, 1, 1, 1, 1]
+    }
+  ]
 }
